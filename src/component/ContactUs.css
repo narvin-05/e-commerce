@@ -1,0 +1,70 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+* {
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: #f7f8fc;
+    font-family: "Roboto", sans-serif;
+    color: #10182f;
+  }
+  .ContactContainer {
+    display: flex;
+    width: 1200px;
+    border: 3px solid black;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .ContactCard {
+    /* margin: 10px; */
+    background-color: #fff;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 420px;
+  }
+  .ContactBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 3px solid blueviolet; */
+    align-items: center;
+    height: 350px;
+    margin-top: 30px;
+    /* width: 800px; */
+  }
+
+  .first{
+    /* border: 3px solid brown; */
+    margin-bottom: 20px;
+    width: 300px;
+    text-align: center;
+    
+  }
+  .first h3{
+    margin: 0px;
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .first p{
+    margin: 0px;
+    font-weight: lighter;
+  }
+
+  .ContactHeader{
+    text-align: center;
+    transform: translate(0%,40%);
+  }
+  .ContactHeader h1{
+    padding: 10px;
+  }
+
+ 
+

@@ -1,0 +1,76 @@
+.size{
+    width: 40px;
+    height: 40px;
+    justify-content: space-around;
+    /* border: 3px solid blueviolet; */
+    margin: 5px;
+    margin-top: 10px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+.first{
+    background-color:red;
+}
+
+.sec{
+    background-color:rgb(98, 0, 255);
+}
+
+.third{
+    background-color:rgb(234, 255, 0);
+}
+
+.fourth{
+    background-color:rgb(24, 110, 19);
+}
+
+.fifth{
+    background-color:rgb(0, 213, 255);
+}
+
+
+.DeskCard{
+    margin: 10px;
+    background-color: #fff;
+    /* box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2); */
+    overflow: hidden;
+    width: 350px;
+}
+
+
+.DeskHeader{
+    width: 310px;
+    /* border: 3px solid black; */
+}
+
+.DeskBody{
+    width: 310px;
+    margin-left: 20px;
+    /* border: 3px solid black; */
+}
+
+
+.DeskHeader img{
+    height: 300px;
+    width: 300px;
+    /* object-fit: cover; */
+}
+
+.DeskBody{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* border: 3px solid blueviolet; */
+        align-items: center;
+        /* padding: 20px; */
+        height: 100px;
+}
+
+
+
+
+
+

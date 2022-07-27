@@ -1,0 +1,84 @@
+.lower_parent{
+    border: 3px solid black;
+    
+}
+
+.vertical{
+    border-left: 5px solid rgb(255, 255, 255);
+    height: 200px;
+    /* margin-bottom: auto;
+    margin-top: auto; */
+}
+
+.first , .sec , .third , .fourth{
+    /* border: 3px solid rgb(165, 26, 50); */
+    width: 750px;
+}
+
+
+.first h3,p{
+    text-align-last: left;
+}
+
+.first p{
+    /* margin: 0px; */
+    /* margin-top: 10px; */
+}
+
+.first h3{
+    margin: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+
+.sec h3,p{
+    margin-left: 20px;
+    text-align-last: left;
+}
+
+/* .sec p{
+    margin: 0px;
+    margin-top: 10px;
+} */
+
+.sec h3{
+    margin: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+.third h3,p{
+    margin-left: 20px;
+    text-align-last: left;
+}
+
+/* .third p{
+    margin: 0px;
+    margin-top: 10px;
+} */
+
+.third h3{
+    margin: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.fourth h3,p{
+    margin-left: 20px;
+    text-align-last: left;
+}
+
+/* .fourth p{
+    margin: 0px;
+    margin-top: 10px;
+} */
+
+.fourth h3{
+    margin: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
